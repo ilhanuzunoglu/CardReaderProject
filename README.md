@@ -45,7 +45,7 @@ Uygulama, kullanıcı dostu bir arayüze sahiptir. Port seçimi, kart bilgileri,
 ## Geliştirici Bilgisi
 - **Geliştirici:** İlhan Uzunoğlu
 - **E-posta:** ilhanuzunoglu02@gmail.com
-- **Staj Projesi:** Bu uygulama, 2024 yaz stajımda geliştirdiğim ikinci projedir ve kart okuyucu cihazları ile güvenli iletişim ve veri okuma üzerine odaklanmıştır.
+- **Staj Projesi:** Bu uygulama, 2025 yaz stajımda geliştirdiğim ikinci projedir ve kart okuyucu cihazları ile güvenli iletişim ve veri okuma üzerine odaklanmıştır.
 
 ## Katkı ve Lisans
 Bu proje eğitim ve örnek amaçlıdır. Katkıda bulunmak isteyenler için açıktır.
